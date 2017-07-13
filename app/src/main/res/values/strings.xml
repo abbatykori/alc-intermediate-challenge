@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">ALC Intermediate Track Challenge</string>
-    <string name="welcome_text">Thanks for downloading and Welcome!. This app is  a</string>
+    <string name="welcome_text">Thanks for downloading and Welcome!. \n\nThis app is @abbatykori\'s attempt for the ALC Intermediate Challenge. \n\nFeedback is alway welcome. \n\nEnjoy.</string>
     <string name="welcome_action_text">Continue</string>
+    <string name="user_handle_text">\@abbatykori</string>
+    <string name="developer_list_intro_text">Currently showing x of y Java Developers in Lagos, Nigeria</string>
+    <string name="user_url">https://github.com/abbatykori</string>
 </resources>
