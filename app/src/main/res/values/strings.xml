@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ALC Intermediate Track Challenge</string>
+    <string name="welcome_text">Thanks for downloading and Welcome!. This app is  a</string>
+    <string name="welcome_action_text">Continue</string>
 </resources>
