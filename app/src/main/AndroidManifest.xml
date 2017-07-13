@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DeveloperList" />
+        <activity android:name=".DeveloperFullProfile"></activity>
     </application>
 
 </manifest>
